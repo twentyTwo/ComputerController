@@ -16,7 +16,7 @@ namespace Computer_Controller
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new formController());
+            Application.Run(new FormController());
         }
     }
 }
